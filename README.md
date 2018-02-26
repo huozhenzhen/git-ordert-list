@@ -90,22 +90,3 @@ git status
 
  @huozhenzhen
   
-            
- 
-Write  Preview
-
-Leave a comment
-选择文件 Attach files by dragging & dropping, selecting them, or pasting from the clipboard.  Styling with Markdown is supported
-Comment Close issue
-© 2018 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-API
-Training
-Shop
-Blog
-About
