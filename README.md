@@ -1,5 +1,5 @@
 # git-ordert-list
-huozhenzhen commented on 15 Jun 2017
+
 整理了一下Git 常用命令，这个版本还是比较好用的，最后附上个人终结版，帮助你快速上手。
 
 取得Git仓库
